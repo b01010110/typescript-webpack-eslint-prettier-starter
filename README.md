@@ -1,1 +1,1 @@
-# typescript-eslint-prettier-starter
+# typescript-webpack-eslint-prettier-starter
